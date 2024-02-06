@@ -1,8 +1,8 @@
 ### Welcome to Gabriel Morais's GitHub Profile!
  <div>
   <a href="https://github.com/GabrielMoraisDev">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&theme=tokyonight">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=tokyonight&count_private=true">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=dracula&count_private=true">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
