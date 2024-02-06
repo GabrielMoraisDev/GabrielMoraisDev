@@ -2,7 +2,7 @@
  <div align="center">
   <a href="https://github.com/GabrielMoraisDev">
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=tokyonight&count_private=true">
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&theme=tokyonight&layout=compact&langs_count=16">
+   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&theme=tokyonight&layout=compact&langs_count=16">
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
