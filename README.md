@@ -1,7 +1,7 @@
 ### Welcome to Gabriel Morais's GitHub Profile!
  <div>
   <a href="https://github.com/GabrielMoraisDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&theme=tokyonight"/>
+  
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=tokyonight&count_private=true">
 </div>
 <div style="display: inline_block"><br>
