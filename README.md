@@ -21,4 +21,5 @@
   <a href="https://gabriel-morais-dev.netlify.app/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/portifolio.png"></a> 
   <a href="https://www.linkedin.com/in/gabriel-morais-a3ab91243/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/linkedin.png"></a> 
   <a href="https://www.instagram.com/biel_morais51/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/instagram.png"></a> 
+ <a href="https://www.facebook.com/profile.php?id=100005731294669" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/facebook.png"></a> 
 </div>
