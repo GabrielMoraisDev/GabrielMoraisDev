@@ -12,7 +12,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="right" alt="Rafa-yoda" height="120" src="https://img3.pillowfort.social/posts/a661d7b3f1c252399239_small.jpeg">
+  <img align="right" alt="Deku" height="120" width="120" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/deku.gif">
 </div>
   
   ##
