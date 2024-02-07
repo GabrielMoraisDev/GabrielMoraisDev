@@ -36,9 +36,12 @@
 
  <hr />
 
-<section>
+<section align="center" >
  <h2 align="center">Technologies I have experience with.</h2>
- 
+   <img align="center" alt="HTML" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/html.png">
+   <img align="center" alt="CSS" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/css.png">
+   <img align="center" alt="Js" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/js.png">
+   <img align="center" alt="Python" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/python.png">
 </section>
  
 <section>
