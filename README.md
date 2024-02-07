@@ -25,7 +25,7 @@
  <hr />
 
 <section align="center" >
- <h2 align="center">Technologies I have experience with.</h2>
+ <h2 align="center">Technologies I Have Experience With.</h2>
    <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
    <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
    <img align="center" alt="JavaScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/js.png">
@@ -34,12 +34,19 @@
 </section>
  <hr />
 <section align="center" >
-   <h2 align="center">Technologies I'm studying.</h2>
+   <h2 align="center">Technologies I'm Studying.</h2>
    <img align="center" alt="React" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
    <img align="center" alt="Node" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
    <img align="center" alt="C#" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/c%23.png">
    <img align="center" alt="TypeScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ts.png">
    <img align="center" alt="Java" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/java.png">
+  <div align="center"></div>
+</section>
+ <hr />
+<section align="center" >
+   <h2 align="center">Tools I'm Studying.</h2>
+   <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
+  <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/azure.png">
   <div align="center"></div>
 </section>
 
