@@ -60,5 +60,3 @@
 
   <hr />
     <h2 align="center">Thank you for your visit!</h2>
-  <hr />
-    
