@@ -1,4 +1,5 @@
-### Welcome to Gabriel Morais's GitHub Profile!
+ <div align="center"><h1> Welcome to my profile! I'm Gabriel Morais.</h1></div>
+
  <div align="center">
   <a href="https://github.com/GabrielMoraisDev">
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=tokyonight&count_private=true">
@@ -15,11 +16,40 @@
   <img align="right" alt="Deku" height="120" width="120" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/deku.gif">
 </div>
   
-  ##
- 
+ ##
+
 <div align="center"> 
   <a href="https://gabriel-morais-dev.netlify.app/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/portifolio.png"></a> 
   <a href="https://www.linkedin.com/in/gabriel-morais-a3ab91243/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/linkedin.png"></a> 
   <a href="https://www.instagram.com/biel_morais51/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/instagram.png"></a> 
  <a href="https://www.facebook.com/profile.php?id=100005731294669" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/facebook.png"></a> 
 </div>
+
+<section>
+    <h2 align="center">About me:</h2>
+    <ul>
+        <li>🎓 Computer Science student at UNIP - Ribeirão Preto, São Paulo, Brazil (2022-2025).</li>
+        <li>👨‍💻 IT support staff at <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a>.</li>
+        <li>📚 Currently focusing on web development, but my main goal is to become fullstack.</li>
+    </ul>
+</section>
+
+ <hr />
+
+<section>
+ <h2 align="center">Technologies I have experience with.</h2>
+ 
+</section>
+ 
+<section>
+   <h2 align="center">Technologies I'm studying.</h2>
+   
+  <div align="center"></div>
+</section>
+
+
+
+  <hr />
+    <h2 align="center">Thank you for your visit!</h2>
+  <hr />
+    
