@@ -2,8 +2,8 @@
 
  <div align="center">
   <a href="https://github.com/GabrielMoraisDev">
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&theme=tokyonight&count_private=true">
-   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&theme=tokyonight&layout=compact&langs_count=16">
+   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=070d14&text_color=abd1ff&border_color=fff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
+   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&border_radius=10&bg_color=070d14&text_color=bfddff&border_color=fff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
 </div>
 
 <div align="center"> 
