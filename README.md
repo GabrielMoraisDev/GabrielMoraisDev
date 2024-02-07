@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/biel_morais51/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/instagram.png"></a> 
  <a href="https://www.facebook.com/profile.php?id=100005731294669" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/facebook.png"></a> 
 </div>
-
+<hr />
 <section>
     <h2 align="center">About me:</h2>
     <ul>
