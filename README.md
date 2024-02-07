@@ -21,6 +21,10 @@
         <li>📚 Currently focusing on web development, but my main goal is to become fullstack.</li>
     </ul>
 </section>
+<section align="center">
+  <h2></h2>
+       ✨ I started my studies at the age of 17 and have always been passionate about data and web technologies. I have a technical certificate in IT integrated with high school education, and currently, I'm pursuing a degree in Computer Science at the university. 💻
+</section>
 
  <hr />
 
