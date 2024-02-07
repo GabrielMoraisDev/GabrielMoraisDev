@@ -52,6 +52,7 @@
    <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
   <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/workbench.png">
   <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/azure.png">
+  <img align="center" alt="PostgreSQL" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
 
