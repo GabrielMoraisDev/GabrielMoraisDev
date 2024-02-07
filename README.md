@@ -34,7 +34,10 @@
  
 <section>
    <h2 align="center">Technologies I'm studying.</h2>
-   
+   <img align="center" alt="HTML" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
+   <img align="center" alt="CSS" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/c%23.png">
+   <img align="center" alt="Js" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ts.png">
+   <img align="center" alt="Python" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/java.png">
   <div align="center"></div>
 </section>
 
