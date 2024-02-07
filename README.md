@@ -26,20 +26,20 @@
 
 <section align="center" >
  <h2 align="center">Technologies I have experience with.</h2>
-   <img align="center" alt="HTML" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
-   <img align="center" alt="CSS" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
-   <img align="center" alt="JavaScript" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/js.png">
-   <img align="center" alt="Php" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/php.png">
-   <img align="center" alt="Python" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/python.png">
+   <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
+   <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
+   <img align="center" alt="JavaScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/js.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/php.png">
+   <img align="center" alt="Python" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/python.png">
 </section>
  <hr />
 <section align="center" >
    <h2 align="center">Technologies I'm studying.</h2>
-   <img align="center" alt="React" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
-   <img align="center" alt="Node" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
-   <img align="center" alt="C#" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/c%23.png">
-   <img align="center" alt="TypeScript" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ts.png">
-   <img align="center" alt="Java" height="100" width="100" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/java.png">
+   <img align="center" alt="React" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
+   <img align="center" alt="Node" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
+   <img align="center" alt="C#" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/c%23.png">
+   <img align="center" alt="TypeScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ts.png">
+   <img align="center" alt="Java" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/java.png">
   <div align="center"></div>
 </section>
 
