@@ -28,7 +28,7 @@
 
  <hr />
 
-<section align="center" >
+<section align="center">
  <h2 align="center">Technologies I Have Experience With.</h2>
    <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
    <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
@@ -37,20 +37,27 @@
    <img align="center" alt="Python" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/python.png">
 </section>
  <hr />
-<section align="center" >
+<section align="center">
    <h2 align="center">Technologies I'm Studying.</h2>
    <img align="center" alt="React" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
    <img align="center" alt="Node" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
   <div align="center"></div>
 </section>
  <hr />
-<section align="center" >
+<section align="center">
    <h2 align="center">Tools I'm Studying.</h2>
    <img align="center" alt="postgres" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
   <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
 
+<section align="center">
+   <h2 align="center">Course Badges.</h2>
+  <br>
+   <img align="center" alt="postgres" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
+  <br>
+  <div align="center"></div>
+</section>
 
 
   <hr />
