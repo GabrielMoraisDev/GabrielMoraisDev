@@ -54,8 +54,9 @@
 <section align="center" >
    <h2 align="center">Course Badges.</h2>
   <br>
-   <img align="center" alt="postgres" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
-   <img align="center" alt="postgres" height="120" width="110" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
+   <img align="center" alt="logic" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
+   <img align="center" alt="ia" height="120" width="110" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
+  <img align="center" alt="react" height="130" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/reacty.png">
   <br>
   <div align="center"></div>
 </section>
