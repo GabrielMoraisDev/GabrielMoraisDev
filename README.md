@@ -1,4 +1,4 @@
-<div align="center"><h1> Welcome to my profile! I'm Gabriel Morais.</h1></div>
+<div align="center"><h1> Hello World! I'm Gabriel Morais.</h1></div>
 <div style="display: flex;" align="center">
   <a href="https://github.com/GabrielMoraisDev/" >
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=04090f&text_color=abd1ff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
@@ -14,11 +14,11 @@
 </div>
 <hr />
 <section>
-    <h2 align="center">About me:</h2>
+    <h2 align="center">About me</h2>
     <ul>
         <li>🎓 Computer Science student at UNIP - Ribeirão Preto, São Paulo, Brazil (2022-2025).</li>
-        <li>👨‍💻 IT support staff at <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a>.</li>
-        <li>📚 Currently focusing on web development, but my main goal is to become fullstack.</li>
+        <li>👨‍💻 Front-End Developer at <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a> <- (I developed this website)</li>
+        <li>📚 Currently focusing on Front-End Web Development, but my main goal is to become Fullstack.</li>
     </ul>
 </section>
 <section align="center">
@@ -29,7 +29,7 @@
  <hr />
 
 <section align="center">
- <h2 align="center">Technologies I Have Experience With.</h2>
+ <h2 align="center">Technologies I Have Experience With</h2>
    <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
    <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
    <img align="center" alt="JavaScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/js.png">
@@ -38,21 +38,21 @@
 </section>
  <hr />
 <section align="center">
-   <h2 align="center">Technologies I'm Studying.</h2>
+   <h2 align="center">Technologies I'm Studying</h2>
    <img align="center" alt="React" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
    <img align="center" alt="Node" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
   <div align="center"></div>
 </section>
  <hr />
 <section align="center">
-   <h2 align="center">Tools I'm Studying.</h2>
+   <h2 align="center">Tools I'm Studying</h2>
    <img align="center" alt="postgres" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
   <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
 
 <section align="center" >
-   <h2 align="center">Course Badges.</h2>
+   <h2 align="center">Course Badges</h2>
   <br>
    <img align="center" alt="logic" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
    <img align="center" alt="ia" height="120" width="110" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
