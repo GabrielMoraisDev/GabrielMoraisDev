@@ -1,8 +1,8 @@
 <div align="center"><h1> Hello World! I'm Gabriel Morais.</h1></div>
 <div style="display: flex;" align="center">
   <a href="https://github.com/GabrielMoraisDev/" >
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=04090f&text_color=abd1ff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
-   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&border_radius=10&bg_color=04090f&text_color=bfddff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
+   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=00000000&text_color=abd1ff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
+   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&border_radius=10&bg_color=00000000&text_color=bfddff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
   </a>
 </div>
 
