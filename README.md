@@ -30,24 +30,21 @@
 
 <section align="center">
  <h2 align="center">Technologies I Have Experience With</h2>
-   <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/html.png">
-   <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/css.png">
-   <img align="center" alt="JavaScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/js.png">
-   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/php.png">
-   <img align="center" alt="Python" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/python.png">
+   <img align="center" alt="HTML" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NEXT.png">
+   <img align="center" alt="CSS" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/REACT.png">
+   <img align="center" alt="JavaScript" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NATIVE.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/JS.png">
+   <img align="center" alt="Python" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TYPESCRIPT.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TAILWIND.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NODE.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/PYTHON.png">
+   <img align="center" alt="Php" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/DJANGO.png">
 </section>
  <hr />
 <section align="center">
-   <h2 align="center">Technologies I'm Studying</h2>
-   <img align="center" alt="React" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/react.png">
-   <img align="center" alt="Node" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/nodejs.png">
-  <div align="center"></div>
-</section>
- <hr />
-<section align="center">
-   <h2 align="center">Tools I'm Studying</h2>
+   <h2 align="center">Tools I Have Experience With</h2>
    <img align="center" alt="postgres" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
-  <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
+   <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
 
