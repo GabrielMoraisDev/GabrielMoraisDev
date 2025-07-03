@@ -30,15 +30,15 @@
 
 <section align="center">
  <h2 align="center">Technologies I Have Experience With</h2>
-   <img align="center" alt="HTML" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NEXT.png">
-   <img align="center" alt="CSS" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/REACTJS.png">
-   <img align="center" alt="JavaScript" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NATIVE.png">
-   <img align="center" alt="Php" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/JavaScript.png">
-   <img align="center" alt="Python" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TSS.png">
-   <img align="center" alt="Php" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TAILWIND.png">
-   <img align="center" alt="Php" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NODE.png">
-   <img align="center" alt="Php" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/PY.png">
-   <img align="center" alt="Php" height="90" width="220" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/DJANGO.png">
+   <img align="center" alt="HTML" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NEXT.png">
+   <img align="center" alt="CSS" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/REACTJS.png">
+   <img align="center" alt="JavaScript" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NATIVE.png">
+   <img align="center" alt="Php" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/JavaScript.png">
+   <img align="center" alt="Python" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TSS.png">
+   <img align="center" alt="Php" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/TAILWIND.png">
+   <img align="center" alt="Php" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NODE.png">
+   <img align="center" alt="Php" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/PY.png">
+   <img align="center" alt="Php" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/DJANGO.png">
 </section>
  <hr />
 <section align="center">
