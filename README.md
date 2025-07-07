@@ -1,4 +1,4 @@
-<div align="center"><h1> Hello World! I'm Gabriel Morais.</h1></div>
+<div align="center"><h1> Hello World! Eu sou Gabriel Morais.</h1></div>
 <div style="display: flex;" align="center">
   <a href="https://github.com/GabrielMoraisDev/" >
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=00000000&text_color=abd1ff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
@@ -14,22 +14,22 @@
 </div>
 <hr />
 <section>
-    <h2 align="center">About me</h2>
+    <h2 align="center">Sobre mim</h2>
     <ul>
-        <li>🎓 Computer Science student at UNIP - Ribeirão Preto, São Paulo, Brazil (2022-2025).</li>
-        <li>👨‍💻 Front-End Developer at <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a> <- (I developed this website)</li>
-        <li>📚 Currently focusing on Front-End Web Development, but my main goal is to become Fullstack.</li>
+        <li>🎓 Estudante de Ciências da Computação UNIP - Ribeirão Preto, São Paulo, Brasil (2022-2025).</li>
+        <li>👨‍💻 Desenvolvedor Front-End em <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a> <- (Desenvolvi esse site)</li>
+        <li>📚 Atualmente focado no Desenvolvimento Web Front-End, mas com o objetivo de me tornar Fullstack.</li>
     </ul>
 </section>
 <section align="center">
   <h2></h2>
-       ✨ I started my studies at the age of 17 and have always been passionate about data and web technologies. I have a technical certificate in IT integrated with high school education, and currently, I'm pursuing a degree in Computer Science at the university. 💻
+       ✨ Possuo mais de 3 anos de experiência na área, e continuo desenvolvendo projetos e soluções incríveis, prezando pelo desenolvimento responsivo, e sempre seguindo boas práticas, escrevendo um código limpo e organizado. 💻
 </section>
 
  <hr />
 
 <section align="center">
- <h2 align="center">Technologies I Have Experience With</h2>
+ <h2 align="center">Tecnologias que tenho experiência</h2>
    <img align="center" alt="HTML" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NEXT.png">
    <img align="center" alt="CSS" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/REACTJS.png">
    <img align="center" alt="JavaScript" height="60" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/NATIVE.png">
@@ -42,14 +42,14 @@
 </section>
  <hr />
 <section align="center">
-   <h2 align="center">Tools I Have Experience With</h2>
+   <h2 align="center">Ferramentas que tenho experiência</h2>
    <img align="center" alt="postgres" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
    <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
 
 <section align="center" >
-   <h2 align="center">Course Badges</h2>
+   <h2 align="center">Insígnias de cursos</h2>
   <br>
    <img align="center" alt="logic" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
    <img align="center" alt="ia" height="120" width="110" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
@@ -60,4 +60,4 @@
 
 
   <hr />
-    <h2 align="center">Thank you for your visit!</h2>
+    <h2 align="center">Obrigado pela visita!</h2>
