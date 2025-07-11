@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://gabrielmoraisdev.github.io/Portfolio/src/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/portifolio.png"></a> 
+<!--   <a href="https://gabrielmoraisdev.github.io/Portfolio/src/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/portifolio.png"></a>  -->
   <a href="https://www.linkedin.com/in/gabriel-morais-a3ab91243/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/linkedin.png"></a> 
   <a href="https://www.instagram.com/biel_morais51/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/instagram.png"></a> 
  <a href="https://www.facebook.com/profile.php?id=100005731294669" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/facebook.png"></a> 
