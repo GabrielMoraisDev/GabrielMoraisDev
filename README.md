@@ -42,20 +42,33 @@
 </section>
  <hr />
 <section align="center">
+  <br>
    <h2 align="center">Ferramentas que tenho experiência</h2>
    <img align="center" alt="postgres" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/postgres.png">
    <img align="center" alt="docker.png" height="80" width="180" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/docker.png">
   <div align="center"></div>
 </section>
-
+<br>
 <section align="center" >
    <h2 align="center">Insígnias de cursos</h2>
-  <br>
-   <img align="center" alt="logic" height="120" width="130" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
-   <img align="center" alt="ia" height="120" width="110" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
-  <img align="center" alt="react" height="130" width="140" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/reacty.png">
-  <br>
+  
+   <img align="center" alt="logic" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/logic.png">
+   <img align="center" alt="ia" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/ia.png">
+   <img align="center" alt="ia" height="90" width="80" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/github.webp">
+  <img align="center" alt="react" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/reacty.png">
+
   <div align="center"></div>
+</section>
+<br>
+<section align="center" >
+   <h2 align="center">Emblemas</h2>
+   <img align="center" alt="ia" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/turbine-curriculo.webp">
+   <img align="center" alt="ia" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/equipes-ageis.webp">
+   <img align="center" alt="react" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/versionamento.webp">
+  <img align="center" alt="logic" height="90" width="90" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/entrevista.webp">
+  
+  <div align="center"></div>
+  <br>
 </section>
 
 
