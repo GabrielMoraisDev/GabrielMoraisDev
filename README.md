@@ -1,23 +1,8 @@
 <div align="center"><h1> Hello World! Eu sou Gabriel Morais.</h1></div>
-<div style="display: flex;" align="center">
-  <a href="https://github.com/GabrielMoraisDev/" >
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisDev&show_icons=true&count_private=true&border_radius=10&bg_color=00000000&text_color=abd1ff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
-   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisDev&layout=compact&langs_count=16&border_radius=10&bg_color=00000000&text_color=bfddff&title_color=5ca5ff&icon_color=5ca5ff&hide_border=true">
-  </a>
-</div>
-
-<div align="center"> 
-<!--   <a href="https://gabrielmoraisdev.github.io/Portfolio/src/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/portifolio.png"></a>  -->
-  <a href="https://www.linkedin.com/in/gabriel-morais-a3ab91243/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/linkedin.png"></a> 
-  <a href="https://www.instagram.com/biel_morais51/" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/instagram.png"></a> 
- <a href="https://www.facebook.com/profile.php?id=100005731294669" target="_blank"><img height="45" src="https://github.com/GabrielMoraisDev/GabrielMoraisDev/blob/main/img/facebook.png"></a> 
-</div>
-<hr />
 <section>
-    <h2 align="center">Sobre mim</h2>
     <ul>
-        <li>🎓 Estudante de Ciências da Computação UNIP - Ribeirão Preto, São Paulo, Brasil (2022-2025).</li>
-        <li>👨‍💻 Desenvolvedor Front-End em <a href="https://www.chiaperini.com.br">Chiaperini Industrial</a> <- (Desenvolvi esse site)</li>
+        <li>🎓 Formado em Ciências da Computação UNIP - Ribeirão Preto, São Paulo, Brasil (2022-2025).</li>
+        <li>👨‍💻 Trabalhando como Desenvolvedor Frontend focado em Next, React e React Native.</li>
         <li>📚 Atualmente focado no Desenvolvimento Web Front-End, mas com o objetivo de me tornar Fullstack.</li>
     </ul>
 </section>
