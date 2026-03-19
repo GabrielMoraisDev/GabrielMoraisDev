@@ -8,7 +8,7 @@
 </section>
 <section align="center">
   <h2></h2>
-       ✨ Possuo mais de 3 anos de experiência na área, e continuo desenvolvendo projetos e soluções incríveis, prezando pelo desenolvimento responsivo, e sempre seguindo boas práticas, escrevendo um código limpo e organizado. 💻
+       ✨ Possuo mais de 3 anos de experiência na área, e continuo desenvolvendo projetos e soluções incríveis, prezando pelo desenvolvimento responsivo, e sempre seguindo boas práticas, escrevendo um código limpo e organizado. 💻
 </section>
 
  <hr />
