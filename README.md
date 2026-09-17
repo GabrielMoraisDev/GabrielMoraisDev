@@ -22,9 +22,7 @@
   <img align="center" alt="Next" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/NEXT.png">
   <img align="center" alt="React" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/REACTJS.png">
   <img align="center" alt="React Native" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/NATIVE.png">
-  <img align="center" alt="JavaScript" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/JavaScript.png">
   <img align="center" alt="TypeScript" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/TSS.png">
-  <img align="center" alt="Tailwind" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/TAILWIND.png">
   <img align="center" alt="Node" height="60" width="140" src="https://raw.githubusercontent.com/GabrielMoraisDev/GabrielMoraisDev/main/img/NODE.png">
 </section>
 
